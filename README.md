@@ -40,4 +40,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgabor7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/g%C3%A1bor-tark%C3%B3-8a0915205/
-[email]: tgabor7@gmail.com
+[email]: mailto:tgabor7@gmail.com
