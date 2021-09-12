@@ -14,7 +14,7 @@
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=Visual_Studio_Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=Visual_Studio_Code&logoColor=white&color=2bbc8a)
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgabor7)](https://github.com/anuraghazra/github-readme-stats)
