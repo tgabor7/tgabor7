@@ -1,16 +1,30 @@
-- 👋 Hi, I’m @tgabor7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi I'm Gábor Tarkó
 
-<!---
-tgabor7/tgabor7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Developer for fun
+
+- 👀 I'm interested in low level graphics APIs and Web/Game development
+- 🌱 Currently learning Vulkan🌋
+
+## Contact me
+[<img align="left" alt="tgabor7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tgabor7 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+## Languages and Tools
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgabor7)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgabor7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/g%C3%A1bor-tark%C3%B3-8a0915205/
+[email]: tgabor7@gmail.com
