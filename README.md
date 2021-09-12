@@ -6,8 +6,8 @@
 - 🌱 Currently learning Vulkan🌋
 
 ### Contact me
-[<img align="left" alt="tgabor7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tgabor7 | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="tgabor7 | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tgabor7 | Email" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 
 <br />
 
