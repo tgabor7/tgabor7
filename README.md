@@ -15,6 +15,8 @@
 
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgabor7)](https://github.com/anuraghazra/github-readme-stats)
