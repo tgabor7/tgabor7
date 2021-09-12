@@ -14,7 +14,7 @@
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+[<img src="https://simpleicons.org/icons/linux.svg" />]
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgabor7)](https://github.com/anuraghazra/github-readme-stats)
