@@ -13,7 +13,7 @@
 
 ## Languages and Tools
 
-![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo="https://simpleicons.org/icons/linux.svg"&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=https://simpleicons.org/icons/linux.svg&logoColor=white&color=2bbc8a)
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgabor7)](https://github.com/anuraghazra/github-readme-stats)
