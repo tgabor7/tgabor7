@@ -13,7 +13,7 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/tree/v2.14.0/icons/html/html.png" />]
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ---
 
