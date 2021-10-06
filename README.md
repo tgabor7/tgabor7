@@ -1,9 +1,9 @@
 ## Hi I'm Gábor Tarkó 
 
-### Developer for fun
+### Full-stack mostly Frontend Developer
 
-- 👀 I'm interested in low level graphics APIs and Web/Game development
-- 🌱 Currently learning Vulkan🌋
+- 👀 I'm proficient in React
+- 🌱 Currently learning React Native🌋
 
 ### Contact me
 [<img align="left" alt="tgabor7 | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
