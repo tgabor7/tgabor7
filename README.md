@@ -6,12 +6,13 @@
 - 🌱 Currently learning React Native🌋
 
 ### Contact me
-[https://tgabor7.github.io/](https://tgabor7.github.io/)
+
 [<img align="left" alt="tgabor7 | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tgabor7 | Email" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 
 <br />
-
+[https://tgabor7.github.io/](https://tgabor7.github.io/)
+<br />
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
